@@ -71,6 +71,7 @@
   - Round trip Rmd + Docx
   - Notebook format: https://bookdown.org/yihui/rmarkdown/notebook.html#notebook-format
   - Presentations: https://bookdown.org/yihui/rmarkdown/presentations.html AND XARINGAN
+    - https://twitter.com/TiffanyTimbers/status/1404823614596128768
   - https://holtzy.github.io/Pimp-my-rmd/
   - https://vickysteeves.gitlab.io/repro-papers/
   - `rrtools` https://github.com/benmarwick/rrtools und research compendia
